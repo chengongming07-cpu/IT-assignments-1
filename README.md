@@ -1,2 +1,2 @@
 # IT-assignments
-my humwark
+read faq.py for my assignment 1 dear teacher Minh
